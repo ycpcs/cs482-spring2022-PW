@@ -10,13 +10,13 @@ CS 482 - Senior Software Project II<br>Privilege Walk Project
 
 **Webpage:**  [https://ycpcs.github.io/cs482-spring2022-PW](https://ycpcs.github.io/cs482-spring2022-PW/)
 
-**Instructors:**
+**Instructor:**
 
-- [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, KEC 137, Office hours: M-W-F: 1:00p to 2:00p, and by appointment
+- Professor Donald J. Hake II, <djhake2@ycp.edu>, KEC 137, Office hours: M-W-F: 1:00p to 2:00p, and by appointment
 
 **Meeting times:**
 
-* CS 482 Project Status Reports and MS Presentations/Demos: Mondays, 12:00p to 1:15p in KEC 119.
+* CS 482 Project Status Reports and Milestone Presentations/Demos: Mondays, 12:00p to 1:15p in KEC 119.
 
 * Privilege Walk team meetings: Wednesdays and Fridays, 12:00p to 1:15p in KEC 119.
 

@@ -18,7 +18,7 @@ Assignment | Due
 [Assign04: Milestone 2](assign04.html) | Monday, 3-21-2022 (during class period)
 [Midterm Peer Evaluations](PeerEval-PrivilegeWalk-Sp22-midterm.pdf) | Wednesday, 3-23-22 (by Noon in PDF form via email)
 [Assign05: Milestone 3](assign05.html) | Monday, 4-13-2022 (during class period)
-[Eng&CS Rollout](assign05-expo.html) | Friday, 4-29-2022 (TBD: as part of the Engineering and Computer Science Rollout)
+[Eng&CS Rollout](assign05-expo.html) | Thursday, 4-28-2022 (2:00 to 6:00 in KEC, as part of the Engineering and Computer Science Rollout)
 [Assign06: Draft Technical Report](assign06.html) | Wednesday, 5-4-2022 (by Noon in your Google Drive)
 [Assign06: Milestone 4 - Final Presentation](assign06.html) | Monday, 5-9-2022 (TBD: )
 [Final Peer Evaluations](PeerEval-PrivilegeWalk-Sp22-final.pdf) | Wednesday, 5-11-2022 (by Noon in PDF form via email)

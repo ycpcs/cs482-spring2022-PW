@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Syllabus"f
+title: "Syllabus"
 ---
 
-CS 482 - Senior Software Project II<br>Privilege Walk Project
+CS 482 - Senior Software Project II <br> Privilege Walk Project
 ===================================
 
 **Spring 2022**

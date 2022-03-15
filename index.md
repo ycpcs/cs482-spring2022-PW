@@ -27,14 +27,13 @@ All information about the course will be posted here.
 
 * **Apr 5** &mdash; **The Engineering and Computer Science Rollout for the Privilege Walk Project** is scheduled for Thursday, 4-28-22, from 2:00p to 6:00p in Kinsley Engieering Center.
 
-* **Mar 21* &mdash; Milestone 3 presentation/demo on Wednesday, 4-13-22, during normal class time.
-
-* **Feb 28** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-PrivilegeWalk-Sp22-midterm.pdf) are due Wednesday, 3-23-22, by Noon in PDF form via email to your instructors.
-
-* **Feb 28** &mdash; Milestone 2 presentation/demo on Monday, 3-21-22, during normal class time.
-
+* **Mar 21* &mdash; Milestone 3 presentation/demo on Wednesday, 4-11-22, during normal class time.
 
 -->
+
+* **Mar 15** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-PrivilegeWalk-Sp22-midterm.pdf) are due Wednesday, 3-23-22, by Noon in PDF form via email to your instructors.
+
+* **Mar 15** &mdash; Milestone 2 presentation/demo on Monday, 3-21-22, during normal class time.
 
 * **Jan 28** &mdash; Milestone 1 presentation/demo on Monday, 2-28-22, during normal class time.
 

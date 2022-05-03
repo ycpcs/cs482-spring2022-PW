@@ -18,13 +18,13 @@ All information about the course will be posted here.
 <!--
 -->
 
+* **May 2** &mdash; [Draft Technical Reports](./assign/finalreport.html) due date has been moved to Friday, 5-6-22, by Noon in your Google Drive, for review and comment by your instructors.
+
 * **Apr 30** &mdash; [Final Technical Reports](./assign/finalreport.html) and Team Posters are due Saturday, 5-14-22, by Noon in your Google Drive, as well as in PDF form via email to your instructors.
 
 * **Apr 30** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-PrivilegeWalk-Sp22-final.doc) are due Wednesday, 5-11-22, by Noon in PDF form via email to your instructors.
 
 * **Apr 13** &mdash; The Privilege Walk Project Final Presentation and Demo (MS4) will be Monday, 5-9-22, during the final exam period  12:45p to 2:45p in KEC 119.
-
-* **Apr 13** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-4-22, by Noon in your Google Drive, for review and comment by your instructors.
 
 * **Apr 5** &mdash; **The Engineering and Computer Science Rollout for the Privilege Walk Project** is scheduled for Thursday, 4-28-22, from 2:00p to 6:00p in Kinsley Engieering Center.
 
